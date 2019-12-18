@@ -1,6 +1,11 @@
-* {
-  width: 300px;
+body {
+  margin: 0;
+}
+
+div {
   height: 100px;
+  width: 300px;
+  margin: 0 auto;
 }
 
 #header {
